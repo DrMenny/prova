@@ -1,0 +1,9 @@
+pandas
+keras
+tensorflow
+sklearn
+jupyter
+sanic
+sanic_openapi
+requests
+seaborn
